@@ -1,0 +1,19 @@
+name: "Kangkang Homepage"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Resume"
+      href: Resume.html
+    - text: "Dashboard"
+      href: Dashboard.html
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<kangkang.zseven@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/kangkangz77/
+output:
+  html_document:
+    theme: flatly

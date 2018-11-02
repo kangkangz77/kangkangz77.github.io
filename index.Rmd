@@ -1,0 +1,20 @@
+---
+title: "KK's page"
+---
+
+<br/> 
+<br/> 
+
+### Welcome to my page!
+
+<br/> 
+
+<img src="./image/picture.jpg" style="width:100%">
+
+<br/> 
+
+You can find interesting things here:
+
+* [My Resume](Resume.html)
+
+* [My Dashboard for Instacart data](Dashboard.html)
