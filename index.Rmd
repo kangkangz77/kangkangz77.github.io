@@ -1,11 +1,6 @@
 ---
-title: "KK's page"
+title: "Welcome to KK's page!"
 ---
-
-<br/> 
-<br/> 
-
-### Welcome to my page!
 
 <br/> 
 
@@ -15,6 +10,8 @@ title: "KK's page"
 
 You can find interesting things here:
 
+* [My Page Introduction](about.html)
+
 * [My Resume](Resume.html)
 
-* [My Dashboard for Instacart data](Dashboard.html)
+* [My Dashboard For Instacart Data](Dashboard.html)
