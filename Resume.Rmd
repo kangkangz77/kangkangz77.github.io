@@ -1,0 +1,5 @@
+---
+title: "Resume"
+---
+
+<img src="./image/resume.png" style="width:100%">
